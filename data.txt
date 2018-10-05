@@ -1,0 +1,3 @@
+Name: Omar
+Age: 23
+Favorite Color: Blue
